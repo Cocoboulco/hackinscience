@@ -1,1 +1,1 @@
-print ("zYxwvUtrqpOnmlkjIhgfEdcbA")
+print("zYxwvUtrqpOnmlkjIhgfEdcbA")
