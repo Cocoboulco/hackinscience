@@ -11,5 +11,5 @@ def sort_by_mark(myclass):
 
 
 def sort_by_name(myclass):
-    myclass = sorted(myclass, key=operator.itemgetter(1), reverse=True)
+    myclass = sorted(myclass, key=operator.itemgetter(1))
     return(myclass)
