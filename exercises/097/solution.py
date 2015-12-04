@@ -1,11 +1,11 @@
-def love_meet(alice, bob):
+def love_meet(bob, alice):
     a = set(alice)
     b = set(bob)
     c = a & b
     return(c)
 
 
-def affair_meet(alice, bob, silvester):
+def affair_meet(bob, alice, silvester):
     a = set(alice)
     b = set(bob)
     c = set(silvester)
